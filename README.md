@@ -5,7 +5,9 @@ This is students data project. By using this project we can do changes and modif
 
 ## Requirements
 python 3.
+
 knowledge on HTM,CSS
+
 sqlite3 DB browser
 
 ## Execution
